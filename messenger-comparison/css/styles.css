@@ -7,7 +7,7 @@ body {
 }
 
 div.language {
-    position: fixed;
+    position: static;
     top: 15px;
     left: 15px;
 }
